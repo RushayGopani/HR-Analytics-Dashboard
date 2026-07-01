@@ -6,7 +6,7 @@ An interactive **HR Analytics Dashboard** built using **Microsoft Power BI** to 
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](Images/dashboard.png)
+![HR Analytics Dashboard](Images/Dashboard.png)
 
 
 
